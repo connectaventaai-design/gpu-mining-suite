@@ -1,0 +1,46 @@
+{
+  "GTX_1660_SUPER": {
+    "RVN": {
+      "name": "Ravencoin (KawPow)",
+      "core_clock": 100,
+      "memory_clock": 800,
+      "power_limit": 80,
+      "fan_speed": 70
+    },
+    "ETC": {
+      "name": "Ethereum Classic (Ethash)",
+      "core_clock": -200,
+      "memory_clock": 1200,
+      "power_limit": 75,
+      "fan_speed": 65
+    },
+    "ERG": {
+      "name": "Ergo (Autolykos)",
+      "core_clock": 0,
+      "memory_clock": 1000,
+      "power_limit": 85,
+      "fan_speed": 70
+    },
+    "FLUX": {
+      "name": "Flux (ZelHash)",
+      "core_clock": 50,
+      "memory_clock": 900,
+      "power_limit": 82,
+      "fan_speed": 68
+    },
+    "KAS": {
+      "name": "Kaspa (kHeavyHash)",
+      "core_clock": 150,
+      "memory_clock": 500,
+      "power_limit": 90,
+      "fan_speed": 75
+    },
+    "ALPH": {
+      "name": "Alephium (Blake3)",
+      "core_clock": 100,
+      "memory_clock": 700,
+      "power_limit": 85,
+      "fan_speed": 70
+    }
+  }
+}
