@@ -1,0 +1,69 @@
+{
+  "coins": {
+    "RVN": {
+      "name": "Ravencoin",
+      "algorithm": "kawpow",
+      "pools": [
+        "ravencoin.2miners.com:6060",
+        "rvn.minerpool.org:4501",
+        "rvn-eu.2miners.com:6060"
+      ],
+      "miner": "t-rex",
+      "api_url": "https://api.coingecko.com/api/v3/simple/price?ids=ravencoin&vs_currencies=usd"
+    },
+    "ETC": {
+      "name": "Ethereum Classic",
+      "algorithm": "etchash",
+      "pools": [
+        "etc.2miners.com:1010",
+        "etc-eu.2miners.com:1010",
+        "etc.minerpool.org:2020"
+      ],
+      "miner": "t-rex",
+      "api_url": "https://api.coingecko.com/api/v3/simple/price?ids=ethereum-classic&vs_currencies=usd"
+    },
+    "ERG": {
+      "name": "Ergo",
+      "algorithm": "autolykos2",
+      "pools": [
+        "ergo.2miners.com:8888",
+        "erg.minerpool.org:4444",
+        "ergo-eu.2miners.com:8888"
+      ],
+      "miner": "t-rex",
+      "api_url": "https://api.coingecko.com/api/v3/simple/price?ids=ergo&vs_currencies=usd"
+    },
+    "FLUX": {
+      "name": "Flux",
+      "algorithm": "zelash",
+      "pools": [
+        "flux.2miners.com:2020",
+        "flux-eu.2miners.com:2020",
+        "flux.minerpool.org:3333"
+      ],
+      "miner": "lolminer",
+      "api_url": "https://api.coingecko.com/api/v3/simple/price?ids=flux&vs_currencies=usd"
+    },
+    "KAS": {
+      "name": "Kaspa",
+      "algorithm": "kheavyhash",
+      "pools": [
+        "pool.woolypooly.com:3112",
+        "kas.minerpool.org:3333",
+        "acc-pool.pw:16061"
+      ],
+      "miner": "lolminer",
+      "api_url": "https://api.coingecko.com/api/v3/simple/price?ids=kaspa&vs_currencies=usd"
+    },
+    "ALPH": {
+      "name": "Alephium",
+      "algorithm": "blake3",
+      "pools": [
+        "pool.woolypooly.com:3106",
+        "alph.minerpool.org:20032"
+      ],
+      "miner": "lolminer",
+      "api_url": "https://api.coingecko.com/api/v3/simple/price?ids=alephium&vs_currencies=usd"
+    }
+  }
+}

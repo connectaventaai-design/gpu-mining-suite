@@ -1,0 +1,34 @@
+{
+  "mining": {
+    "default_coin": "RVN",
+    "mining_pool": "ravencoin.2miners.com:6060",
+    "wallet_address": "",
+    "auto_start": false,
+    "auto_switch": true,
+    "worker_name": "GTX1660S"
+  },
+  "gpu": {
+    "target_temp": 70,
+    "max_temp": 80,
+    "fan_min": 60,
+    "fan_max": 100
+  },
+  "notifications": {
+    "discord_webhook": "",
+    "telegram_token": "",
+    "telegram_chat_id": "",
+    "enable_alerts": true
+  },
+  "dashboard": {
+    "port": 5000,
+    "host": "0.0.0.0",
+    "refresh_interval": 5
+  },
+  "automation": {
+    "enable_watchdog": true,
+    "restart_on_low_hashrate": true,
+    "hashrate_threshold": 20,
+    "enable_scheduler": false,
+    "mining_hours": "00:00-23:59"
+  }
+}
