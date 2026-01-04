@@ -1,0 +1,69 @@
+MIT License
+
+Copyright (c) 2024 GPU Mining Suite Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THIRD-PARTY SOFTWARE NOTICES
+
+This software uses the following third-party libraries and tools:
+
+1. Flask - BSD-3-Clause License
+   Copyright © 2010 Pallets
+
+2. Chart.js - MIT License
+   Copyright © 2014-2022 Chart.js Contributors
+
+3. py3nvml - BSD-3-Clause License
+   Copyright © 2019 py3nvml Contributors
+
+4. APScheduler - MIT License
+   Copyright © 2009-2023 Alex Grönholm
+
+5. Requests - Apache License 2.0
+   Copyright © 2019 Kenneth Reitz
+
+MINING SOFTWARE (NOT INCLUDED)
+
+The following mining software must be downloaded separately and have their
+own licenses:
+
+- T-Rex Miner: Proprietary license with 1% developer fee
+- lolMiner: Proprietary license with 0.7-1% developer fee
+- GMiner: Proprietary license with 1-2.5% developer fee
+
+Users must agree to the terms of each mining software separately.
+
+---
+
+DISCLAIMER
+
+This software is provided for educational and personal use. Cryptocurrency
+mining involves financial risk, and users are solely responsible for:
+
+- Compliance with local laws and regulations
+- Hardware damage or warranty voidance
+- Electricity costs and profitability
+- Tax implications
+- Any losses incurred
+
+The developers make no guarantees regarding profitability, stability, or
+fitness for any particular purpose. Use at your own risk.
